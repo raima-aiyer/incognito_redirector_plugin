@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#4285f4"/>
+  
+  <!-- Mask symbol -->
+  <path d="M64 30c-18.778 0-34 15.222-34 34s15.222 34 34 34 34-15.222 34-34-15.222-34-34-34zm0 60c-14.359 0-26-11.641-26-26s11.641-26 26-26 26 11.641 26 26-11.641 26-26 26z" 
+        fill="white"/>
+  
+  <!-- Eyes -->
+  <circle cx="45" cy="64" r="6" fill="#4285f4"/>
+  <circle cx="83" cy="64" r="6" fill="#4285f4"/>
+  
+  <!-- Smile -->
+  <path d="M45 80c0 0 8 8 19 8s19-8 19-8" 
+        stroke="#4285f4" 
+        stroke-width="4" 
+        fill="none"/>
+</svg> 
